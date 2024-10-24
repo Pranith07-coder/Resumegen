@@ -1,0 +1,32 @@
+.files-dropzone {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  padding: 10px; /* Added padding */
+  font-family: Poppins, sans-serif; /* Added fallback font */
+  font-weight: bold;
+  border-radius: 6px;
+  border: 1px solid #6B46C0;
+  color: #6B46C0;
+  background-color: white; /* Background color for better visibility */
+  transition: all 0.2s ease-in-out; /* Unified transition */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Added box shadow */
+}
+
+.files-dropzone:hover {
+  background-color: #6B46C0;
+  color: white;
+  cursor: pointer;
+}
+
+.files-dropzone:focus {
+  outline: none; /* Remove default outline */
+  border-color: #B794F4; /* Lighter border color on focus */
+  box-shadow: 0 0 0 2px rgba(107, 70, 192, 0.5); /* Add focus shadow */
+}
+
+.files-dropzone:active {
+  background-color: #4C51BF; /* Darker color when active */
+}
