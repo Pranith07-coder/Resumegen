@@ -7,7 +7,7 @@ Live resume editor.
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-## Sneak  Peek of Home Page (https://cdn-icons-png.flaticon.com/512/6186/6186195.png) :
+## Sneak  Peek of Home Page :
 ![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
 
 
