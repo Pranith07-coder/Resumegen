@@ -8,11 +8,11 @@ Downloadable PDF: Once you’re satisfied with your resume, easily download it a
 User-Friendly Interface: Designed with simplicity in mind, making it easy for anyone to navigate and create a resume quickly.
 Responsive Design: The application is fully responsive, ensuring a seamless experience on both desktop and mobile devices.
 # Technologies Used
-ReactJS: For building the user interface.
-HTML & CSS: For structuring and styling the application.
-JavaScript: For implementing functionality and interactivity.
-Bootstrap: For responsive design and layout (optional, based on your implementation).
-PDF Generation: Use libraries like jspdf or html2canvas for exporting resumes as PDF files.
+  -ReactJS: For building the user interface.
+  -HTML & CSS: For structuring and styling the application.
+  -JavaScript: For implementing functionality and interactivity.
+  -Bootstrap: For responsive design and layout (optional, based on your implementation).
+  -PDF Generation: Use libraries like jspdf or html2canvas for exporting resumes as PDF files.
 
 [Visit Now](https://resumegencom.netlify.app) 🚀
 
